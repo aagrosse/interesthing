@@ -1,7 +1,7 @@
 import React from "react"
 
-function Sidebar(){
-    return(
+function Sidebar() {
+    return (
         <div>
             testside
         </div>
